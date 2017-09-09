@@ -1,0 +1,15 @@
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\bin\Debug\Bengalization.exe.config
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\bin\Debug\Bengalization.exe
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\bin\Debug\Bengalization.pdb
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\obj\Debug\Bengalization.csprojResolveAssemblyReference.cache
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\obj\Debug\Bengalization.exe
+H:\Technolive\Socian\LanguageTrainTool\Bengalization\Bengalization\obj\Debug\Bengalization.pdb
+H:\SOCIAN\LanguageTrainTool\Bengalization\Bengalization\bin\Debug\Bengalization.exe.config
+H:\SOCIAN\LanguageTrainTool\Bengalization\Bengalization\obj\Debug\Bengalization.exe
+H:\SOCIAN\LanguageTrainTool\Bengalization\Bengalization\obj\Debug\Bengalization.pdb
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\bin\Debug\Bengalization.exe.config
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\obj\Debug\Bengalization.exe
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\obj\Debug\Bengalization.pdb
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\bin\Debug\Bengalization.exe
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\bin\Debug\Bengalization.pdb
+H:\SOCIAN\LanguageTrainTool\BengalizationRev\Bengalization\obj\Debug\Bengalization.csprojResolveAssemblyReference.cache
